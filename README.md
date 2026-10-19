@@ -1,3 +1,4 @@
+<img width="1920" height="1080" alt="Screenshot (354)" src="https://github.com/user-attachments/assets/1d02c244-c3d4-42cb-acff-2cdca37d298a" />
 ## About
 Merbl run, my Half Life Week 2 project. A 3D-printed marble run designed in Onshape using the Hack Club guide.
 
@@ -19,3 +20,4 @@ Merbl run, my Half Life Week 2 project. A 3D-printed marble run designed in Onsh
 <img width="1920" height="1080" alt="Screenshot (288)" src="https://github.com/user-attachments/assets/ab2998f4-748d-44e8-99fc-4d449806fe17" />
 <img width="1920" height="1080" alt="Screenshot (277)" src="https://github.com/user-attachments/assets/43c0f450-bb34-4e84-9c7c-2fc0254dc3d5" />
 <img width="868" height="696" alt="Screenshot 2026-10-19 080333" src="https://github.com/user-attachments/assets/8e36f97f-d902-4133-9dd7-cd2b27eaa916" />
+wasn't able to add this screenshot in the project submission so i have added it here.:)
