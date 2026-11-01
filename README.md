@@ -7,6 +7,14 @@ Merbl run, my Half Life Week 2 project. A 3D-printed marble run designed in Onsh
 - A funnel that catches the marble
 - An 8 mm marble, and a flat base for printing
 
+## Bill of materials
+
+| Item | Qty | Supplier | Cost per item | Total cost |
+|------|-----|----------|---------------|------------|
+| 3D printed tracks and marble | 1 | [JLCPCB](https://www.jlcpcb.com/) | $11.75 | $11.75 |
+| Estimated total shipping | 1 | | | $17.11 |
+| **Total** | | | | **$28.86** |
+
 ## Files
 - Onshape model: https://cad.onshape.com/documents/93837ea84d973657199ea468/w/c36ea60d45b6d37ee0b8a701/e/54dd374ab3d0e302f79a4074
    
