@@ -15,8 +15,8 @@ Merbl run, my Half Life Week 2 project. A 3D-printed marble run designed in Onsh
 | Estimated total shipping | 1 | | | $17.11 |
 | **Total** | | | | **$28.86** |
 
-## Files
-- Onshape model: https://cad.onshape.com/documents/93837ea84d973657199ea468/w/c36ea60d45b6d37ee0b8a701/e/54dd374ab3d0e302f79a4074
+## Editable CAD (Onshape):
+https://cad.onshape.com/documents/93837ea84d973657199ea468/w/c36ea60d45b6d37ee0b8a701/e/54dd374ab3d0e302f79a4074?renderMode=0&uiState=6ae72ce80a49576b2f0e0b8d
    
 <img width="1920" height="1080" alt="Screenshot (330)" src="https://github.com/user-attachments/assets/44c73a5f-e947-455a-8bef-330915d65cfd" />
 <img width="1920" height="1080" alt="Screenshot (329)" src="https://github.com/user-attachments/assets/ceae8be8-cc0e-4b6c-9343-30c1c2ab22bc" />
