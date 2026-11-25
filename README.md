@@ -18,6 +18,9 @@ Merbl run, my Half Life Week 2 project. A 3D-printed marble run designed in Onsh
 ## Editable CAD (Onshape):
 https://cad.onshape.com/documents/93837ea84d973657199ea468/w/c36ea60d45b6d37ee0b8a701/e/54dd374ab3d0e302f79a4074?renderMode=0&uiState=6ae72ce80a49576b2f0e0b8d
 
-<img width="1088" height="767" alt="Screenshot 2026-11-01 173526" src="https://github.com/user-attachments/assets/6a2e7088-e239-4056-bdc1-b3ecb48f7f47" />
-<img width="1002" height="766" alt="Screenshot 2026-11-01 173546" src="https://github.com/user-attachments/assets/8870b67d-c55f-4497-8472-5b39310547c3" />
-<img width="868" height="696" alt="Screenshot 2026-10-19 080333" src="https://github.com/user-attachments/assets/8e36f97f-d902-4133-9dd7-cd2b27eaa916" />
+<img width="1255" height="762" alt="Screenshot 2026-11-25 192156" src="https://github.com/user-attachments/assets/db7c052e-eedf-45b2-9f30-0c8dfc6ec78a" />
+<img width="826" height="757" alt="Screenshot 2026-11-25 192131" src="https://github.com/user-attachments/assets/80ee57b7-1eb1-44c6-8636-496c5eb5cc46" />
+<img width="1359" height="751" alt="Screenshot 2026-11-25 192112" src="https://github.com/user-attachments/assets/d442ee31-ff22-417a-97c4-07ac71810a08" />
+
+
+
