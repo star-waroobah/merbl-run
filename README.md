@@ -9,8 +9,6 @@ Merbl run, my Half Life Week 2 project. A 3D-printed marble run designed in Onsh
 
 ## Bill of materials
 
-## Bill of Materials (BOM)
-
 | Part Name | Quantity | Unit Price | Total Price | Link |
 | :--- | :---: | :---: | :---: | :--- |
 | 3D Printed Marble Run Set (Base, Funnel, Staircase Track, Snake-shaped Track, Marble - 150g est.) | 1 | $7.50 | $7.50 | [Printing Legion Quote](https://hackclub.enterprise.slack.com/archives/C083P4FJM46/p1795531267603939?thread_ts=1795527243.863369&cid=C083P4FJM46) |
